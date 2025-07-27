@@ -7,12 +7,12 @@ The goal of this project is to provide educational, transparent, and clean code 
 ---
 
 ## 📂 Repository Structure
-Neural_networks/
-├── CNN/ # Convolutional Neural Network
-├── Hebbian/ # Hebbian Learning Rule implementation
-├── Perceptron/ # Single-layer Perceptron
-├── Adaline/ # ADAptive LInear NEuron
-└── Multilayer_perceptron/ # Fully connected feedforward network (MLP)
+Neural_networks/  
+├── CNN/ # Convolutional Neural Network  
+├── Hebbian/ # Hebbian Learning Rule implementation  
+├── Perceptron/ # Single-layer Perceptron  
+├── Adaline/ # ADAptive LInear NEuron  
+└── Multilayer_perceptron/ # Fully connected feedforward network (MLP)  
 
 ---
 
